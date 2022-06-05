@@ -1,0 +1,10 @@
+.table {
+  border: 1px solid gray;
+  border-collapse: collapse;
+}
+.table th {
+  border: 1px solid gray;
+}
+.table td {
+  border: 1px solid gray;
+}
